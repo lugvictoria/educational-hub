@@ -1,0 +1,9 @@
+.body {
+  width: 100%;
+  margin: 0;
+} 
+
+.content-box {
+  background-color: white;
+  min-width: 600px;
+}
