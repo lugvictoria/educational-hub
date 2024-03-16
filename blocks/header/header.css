@@ -16,6 +16,10 @@
   color: white;
 }
 
+.header__link:hover {
+  opacity: .3;
+}
+
 .header__table {
   display: flex;
   max-width: 1184px;
